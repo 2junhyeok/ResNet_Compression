@@ -5,6 +5,9 @@ Currently working on implementing the ResNet 18 and 34 architectures as well whi
 
 A baseline run of ResNet50 on the CIFAR-10 dataset is given as well, with the standard setup proposed by the paper it already achieves around 85.6% accuracy. However, this can definitely be brought up to at least 92% accuracy via some more slight optimization.
 
+# Compression
+Structured Pruning, Unstructured Pruning, Post training quatization, Quantization aware training
+
 References:
 1. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
    Deep Residual Learning for Image Recognition 
